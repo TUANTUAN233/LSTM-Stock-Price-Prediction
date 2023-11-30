@@ -1,0 +1,5 @@
+# Ignore all files in the logs directory
+logs/
+
+# Ignore the notebook checkpoints created by Jupyter
+.ipynb_checkpoints/
